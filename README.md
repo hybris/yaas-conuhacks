@@ -16,7 +16,7 @@ Now that you understand how the service creation works. Go hack and create your 
 
 This repository contains the following folders
 
-- postman - Contains postman collections that you ca use with yopur YaaS project and application
+- postman - Contains postman collections that you can use with your YaaS project and application
 - resources 
     - default.properties - Populate the details of your project, application, clientId and clientSecret of your application.
 - restclient
